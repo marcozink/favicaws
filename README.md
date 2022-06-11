@@ -1,0 +1,2 @@
+# favicaws
+AWS Favicons
